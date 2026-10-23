@@ -1,7 +1,8 @@
 {
   "title": "BTG Public System Document Library",
-  "edition": "2.0",
+  "edition": "2.1",
   "date": "2026-10-23",
+  "latestEvidenceUTC": "2026-10-23T18:26:07Z",
   "systems": [
     "exchange",
     "bridge",
@@ -11,25 +12,40 @@
     "adam",
     "niki"
   ],
-  "source": "36-page Boundary Tech Generation programme blueprint BTG-COMM-EDU-BP-001; BTG corporate public engineering records October 2026",
-  "publicBoundary": "Proprietary code closed; ENTITY separately public",
-  "notClaims": [
-    "regulated live market approval",
-    "production consumer readiness",
-    "independent external certification",
-    "actual student workshop launch"
-  ],
+  "publicBoundary": "Proprietary systems and models remain closed source; ENTITY separately public.",
   "audiencePaths": [
     "public",
     "investors",
     "regulators",
     "engineers"
   ],
-  "workshopLevels": [
-    "1",
-    "2",
-    "3",
-    "4"
+  "workshopSource": "workshops/full-workshop-blueprint-2026.pdf",
+  "councilPublications": [
+    "council/index.html",
+    "council/operator-manual.html",
+    "council/qualification-20261023.html",
+    "council/qualification-20261023.pdf",
+    "council/evidence-summary.json"
   ],
-  "workshopSource": "workshops/full-workshop-blueprint-2026.pdf"
+  "farmnodeEvaluation": [
+    "farmnodes/sector-evaluation-20261023.html",
+    "farmnodes/sector-evaluation-20261023.pdf"
+  ],
+  "engineeringStatus": {
+    "internalRegressionTests": 114,
+    "testSuites": 9,
+    "sectorHeldoutHistoricalCases": 25,
+    "independentNewAlgorithmInventionsProven": 0,
+    "physicallyQualifiedHosts": 0,
+    "ownerProductionGrant": false,
+    "hostedCrossModelAlgorithmsQualified": false,
+    "productionRelease": "HOLD"
+  },
+  "notClaims": [
+    "regulated live market approval",
+    "independent external certification",
+    "production consumer readiness",
+    "25 qualified new algorithms",
+    "three physical FarmNodes"
+  ]
 }
