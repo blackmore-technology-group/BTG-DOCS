@@ -1,21 +1,34 @@
 {
   "title": "BTG Public System Document Library",
-  "edition": "1.0",
+  "edition": "2.0",
   "date": "2026-10-23",
-  "owner": "Blackmore Technology Group Limited",
-  "repository": "blackmore-technology-group/BTG-DOCS",
   "systems": [
-    "Bit Trade Global Exchange",
-    "BTG Bridge",
-    "DataChips and Circuits",
-    "FarmNodes",
-    "BTDU",
-    "ADAM",
-    "NIKI"
+    "exchange",
+    "bridge",
+    "circuits",
+    "farmnodes",
+    "btdu",
+    "adam",
+    "niki"
   ],
-  "systemGuides": 7,
-  "userManuals": 7,
-  "htmlDocuments": 14,
-  "pdfDocuments": 14,
-  "license": "Public documentation only — proprietary source remains private"
+  "source": "36-page Boundary Tech Generation programme blueprint BTG-COMM-EDU-BP-001; BTG corporate public engineering records October 2026",
+  "publicBoundary": "Proprietary code closed; ENTITY separately public",
+  "notClaims": [
+    "regulated live market approval",
+    "production consumer readiness",
+    "independent external certification",
+    "actual student workshop launch"
+  ],
+  "audiencePaths": [
+    "public",
+    "investors",
+    "regulators",
+    "engineers"
+  ],
+  "workshopLevels": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
 }
