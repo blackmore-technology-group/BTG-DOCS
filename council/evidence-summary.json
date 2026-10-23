@@ -1,0 +1,33 @@
+{
+  "schema": "btg.public.niki-council-evidence@1",
+  "as_of": "2026-10-23",
+  "evidence_class": "internal_local_research",
+  "council_regression_passed": 40,
+  "controller_suite_tests_passed": 70,
+  "controller_suite_count": 6,
+  "local_generated_algorithm_tasks_with_full_wasm_pass": 2,
+  "bounded_cases_per_positive_task": 65536,
+  "granby_original_correct": 65280,
+  "granby_total_cases": 65536,
+  "granby_repair_correct": 65536,
+  "granby_repair_origin": "REVIEWER_DETERMINISTIC_NOT_AI_AUTHORED",
+  "registered_types": 5125,
+  "registered_only_instances": 2305,
+  "logical_local_labs_running": 4,
+  "independent_physical_hosts_qualified": 0,
+  "source_backed_local_processors": 16,
+  "original_farm_messages": 6,
+  "distinct_needs": 4,
+  "reusable_method_families": 43,
+  "hosted_multi_model_council_verified": false,
+  "twenty_five_task_independent_benchmark_complete": false,
+  "production_owner_signed": false,
+  "licenses_or_securities_issued_by_council": false,
+  "sources": [
+    "NIKI_AI_COUNCIL_RELEASE_READINESS_20261023.json",
+    "NIKI_AI_COUNCIL_FULL_REGRESSION_20261023.log",
+    "NIKI_FARM_INVENTION_CONTROLLER_ACCEPTANCE_20261023.json",
+    "NIKI_GRANBY_DETERMINISTIC_REPAIR_AUDIT_20261023.json"
+  ],
+  "caveat": "Numbers are local engineering record statements, not externally certified results. Tests overlap; sums must not be interpreted as independent case counts."
+}
