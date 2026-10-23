@@ -1,0 +1,21 @@
+{
+  "title": "BTG Public System Document Library",
+  "edition": "1.0",
+  "date": "2026-10-23",
+  "owner": "Blackmore Technology Group Limited",
+  "repository": "blackmore-technology-group/BTG-DOCS",
+  "systems": [
+    "Bit Trade Global Exchange",
+    "BTG Bridge",
+    "DataChips and Circuits",
+    "FarmNodes",
+    "BTDU",
+    "ADAM",
+    "NIKI"
+  ],
+  "systemGuides": 7,
+  "userManuals": 7,
+  "htmlDocuments": 14,
+  "pdfDocuments": 14,
+  "license": "Public documentation only — proprietary source remains private"
+}
