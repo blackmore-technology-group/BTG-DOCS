@@ -1,7 +1,7 @@
 {
   "title": "BTG Public System Document Library",
-  "edition": "2.1",
-  "date": "2026-10-23",
+  "edition": "2.2",
+  "date": "2026-10-24",
   "latestEvidenceUTC": "2026-10-23T18:26:07Z",
   "systems": [
     "exchange",
@@ -32,6 +32,42 @@
     "farmnodes/sector-evaluation-20261023.pdf"
   ],
   "engineeringStatus": {
+    "observationDate": "2026-10-24",
+    "farmnodeWindowsAuroraTests": "92/92 PASS",
+    "farmnodeDPAPIRegression": "97/97 PASS",
+    "exchangeBackendRegression": "221/221 PASS",
+    "bridgeFullRegression": "161 tests, 2 errors",
+    "studioInstrumentComputeRegression": "8 tests, 2 errors",
+    "councilCreatorTarget": 8,
+    "councilReviewerTarget": 9,
+    "actualCreators": 0,
+    "actualReviewers": 0,
+    "quorumMet": false,
+    "independentPhysicalFarmnodes": 0,
+    "fullProductionRelease": "NOT_QUALIFIED"
+  },
+  "notClaims": [
+    "regulated live market approval",
+    "independent external certification",
+    "production consumer readiness",
+    "25 qualified new algorithms",
+    "three physical FarmNodes"
+  ],
+  "latestEvidenceDocument": "evidence/five-systems-engineering-20261024.html",
+  "coreUserProducts": [
+    "BTG Studio",
+    "FarmNode Host",
+    "BTG Bridge",
+    "ENTITY",
+    "Bit Trade Global"
+  ],
+  "newDocumentPaths": [
+    "studio/studio-guide.html",
+    "studio/studio-operator-manual.html",
+    "identity/unified-account-guide.html",
+    "exchange/instrument-controlled-compute-20261024.html"
+  ],
+  "historicalEngineeringStatus20261023": {
     "internalRegressionTests": 114,
     "testSuites": 9,
     "sectorHeldoutHistoricalCases": 25,
@@ -40,12 +76,5 @@
     "ownerProductionGrant": false,
     "hostedCrossModelAlgorithmsQualified": false,
     "productionRelease": "HOLD"
-  },
-  "notClaims": [
-    "regulated live market approval",
-    "independent external certification",
-    "production consumer readiness",
-    "25 qualified new algorithms",
-    "three physical FarmNodes"
-  ]
+  }
 }
