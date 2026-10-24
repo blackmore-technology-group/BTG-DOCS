@@ -35,16 +35,17 @@
     "observationDate": "2026-10-24",
     "farmnodeWindowsAuroraTests": "92/92 PASS",
     "farmnodeDPAPIRegression": "97/97 PASS",
-    "exchangeBackendRegression": "221/221 PASS",
-    "bridgeFullRegression": "161 tests, 2 errors",
-    "studioInstrumentComputeRegression": "8 tests, 2 errors",
+    "exchangeBackendRegression": "239/239 PASS",
+    "bridgeFullRegression": "169 tests, 1 original encrypted peer ImportError",
+    "studioInstrumentComputeRegression": "8/8 PASS on independently rerun scoped local tests",
     "councilCreatorTarget": 8,
     "councilReviewerTarget": 9,
-    "actualCreators": 0,
+    "actualCreators": 1,
     "actualReviewers": 0,
     "quorumMet": false,
     "independentPhysicalFarmnodes": 0,
-    "fullProductionRelease": "NOT_QUALIFIED"
+    "fullProductionRelease": "NOT_QUALIFIED",
+    "modelAuthoredPuzzleCompilerQualified": false
   },
   "notClaims": [
     "regulated live market approval",
