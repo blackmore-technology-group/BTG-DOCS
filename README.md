@@ -11,7 +11,7 @@ The public documentation for the seven proprietary systems (Exchange, Bridge, Ci
 
 The five user-facing core systems are **BTG Studio, FarmNode Host, BTG Bridge, ENTITY and Bit Trade Global**, supported by NIKI/Council, ADAM, BTDU and DataChip/Circuit technology. Read the [five-system evidence record](evidence/five-systems-engineering-20261024.html), [Studio guide](studio/studio-guide.html), [Studio operator manual](studio/studio-operator-manual.html), [unified-account/ENTITY guide](identity/unified-account-guide.html) and [instrument-controlled computing guide](exchange/instrument-controlled-compute-20261024.html).
 
-Verified local 24 October results include overlapping 92/92 and 97/97 Windows FarmNode regressions, Exchange 221/221, Bridge full 161-case suite with two module errors, and instrumented Studio eight-case suite with two errors. The Grand Forks 8-creator/9-reviewer Council has zero real model quorum in the recorded run. No system-wide production certification is claimed.
+Verified local 24 October results include overlapping 92/92 and 97/97 Windows FarmNode regressions, the latest full Exchange 239/239 pass, a broader Bridge 169-test run with one unresolved original encrypted-peer import error, and a separately rerun instrumented Studio rights-integration 8/8 pass after repairs. The final Grand Forks Council reached one real creator response and zero independent reviewers, well short of the target eight creators plus nine reviewers. No system-wide production certification is claimed.
 
 Start at [library/index.html](library/index.html) or read the council [System Guide](council/index.html), [Operator Manual](council/operator-manual.html) and [evidence summary](council/evidence-summary.json).
 
