@@ -1,6 +1,12 @@
-# BTG Public Document Library — Edition 2.2
+# BTG Public Document Library — Edition 2.3
 
-Blackmore Technology Group Limited · October 24, 2026
+Blackmore Technology Group Limited · October 25, 2026
+
+## Latest — 25 October 2026: universal technology foundry and computing economy
+
+Engineering goals now include authorised complete-system ingestion, preservation and repair, typed DataChip decomposition, adaptive computation and integration with contributed verified FarmNodes. **Current local tests:** Exchange 262/262; focused contribution/use economy 23/23; targeted signed Bridge gateway 13/13; Studio adaptive native 40/40; FarmNode adaptive core 9/9; native FarmNode integration 32/32. These scoped PASS reports are not complete production certification. Original full Bridge suite remains 169 tests with one missing encrypted peer import. A genuine NIKI Council task had one local creator and zero independent reviewers; no physical independent FarmNode fleet or live settlement proven.
+
+**New October 25 system documents:** [Cross-system expansion and evidence](evidence/engineering-expansion-20261025.html) · [Studio: Universal Ingestion, Reconstruction & Optimization](studio/universal-ingestion-adaptive-20261025.html) · [Adaptive Computing and FarmNode Host](farmnodes/adaptive-computing-20261025.html) · [Compute Contribution and Technology Use Economy](exchange/compute-investment-usage-economy-20261025.html) · [NIKI Council Qualification](council/creation-qualification-20261025.html).
 
 The public documentation for the seven proprietary systems (Exchange, Bridge, Circuits, FarmNodes, BTDU, ADAM and NIKI), user/operator manuals, investor/regulator/engineer/general reading paths, and the Boundary Tech Generation workshop curriculum. The separate ENTITY documentation remains public.
 
