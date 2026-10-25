@@ -1,7 +1,7 @@
 {
   "title": "BTG Public System Document Library",
-  "edition": "2.2",
-  "date": "2026-10-24",
+  "edition": "2.3",
+  "date": "2026-10-25",
   "latestEvidenceUTC": "2026-10-23T18:26:07Z",
   "systems": [
     "exchange",
@@ -77,5 +77,53 @@
     "ownerProductionGrant": false,
     "hostedCrossModelAlgorithmsQualified": false,
     "productionRelease": "HOLD"
+  },
+  "currentExpansionDocs": [
+    "evidence/engineering-expansion-20261025.html",
+    "studio/universal-ingestion-adaptive-20261025.html",
+    "farmnodes/adaptive-computing-20261025.html",
+    "exchange/compute-investment-usage-economy-20261025.html",
+    "council/creation-qualification-20261025.html"
+  ],
+  "currentEngineeringStatus20261025": {
+    "localExchangeFullTests": {
+      "pass": 262,
+      "total": 262
+    },
+    "localComputeEconomy": {
+      "pass": 23,
+      "total": 23
+    },
+    "bridgeSignedGateway": {
+      "pass": 13,
+      "total": 13
+    },
+    "bridgeFullSuite": {
+      "total": 169,
+      "errors": 1,
+      "status": "FAIL: missing original encrypted entity process peer"
+    },
+    "studioAdaptiveNative": {
+      "pass": 40,
+      "total": 40
+    },
+    "farmnodeAdaptive": {
+      "pass": 9,
+      "total": 9
+    },
+    "farmnodeNative": {
+      "pass": 32,
+      "total": 32
+    },
+    "councilLive": {
+      "creators": 1,
+      "independentReviewers": 0,
+      "independentlyQualified": false
+    },
+    "physicalFarmNodesQualified": 0,
+    "realSettlementQualified": false,
+    "productionSSOQualified": false,
+    "productionRelease": "NOT QUALIFIED",
+    "source": "Dated local engineering run outputs; independently rerun full production suite outstanding"
   }
 }
