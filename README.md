@@ -1,26 +1,53 @@
-# BTG Public Document Library — Edition 2.3
+# Blackmore Technology Group — Universal Technology Foundry
 
-Blackmore Technology Group Limited · October 25, 2026
+**Official public documentation | Completed-system architecture edition | 26 October 2026**
 
-## Latest — 25 October 2026: universal technology foundry and computing economy
+BTG's complete technology system is the **Universal Technology Foundry**: one platform to import, diagnose, create, repair, verify, execute and commercialize technology. It combines original systems under a shared architecture rather than presenting them as disconnected products.
 
-Engineering goals now include authorised complete-system ingestion, preservation and repair, typed DataChip decomposition, adaptive computation and integration with contributed verified FarmNodes. **Current local tests:** Exchange 262/262; focused contribution/use economy 23/23; targeted signed Bridge gateway 13/13; Studio adaptive native 40/40; FarmNode adaptive core 9/9; native FarmNode integration 32/32. These scoped PASS reports are not complete production certification. Original full Bridge suite remains 169 tests with one missing encrypted peer import. A genuine NIKI Council task had one local creator and zero independent reviewers; no physical independent FarmNode fleet or live settlement proven.
+**Read the canonical guide:** [BTG Universal Technology Foundry](foundry/index.html)
 
-**New October 25 system documents:** [Cross-system expansion and evidence](evidence/engineering-expansion-20261025.html) · [Studio: Universal Ingestion, Reconstruction & Optimization](studio/universal-ingestion-adaptive-20261025.html) · [Adaptive Computing and FarmNode Host](farmnodes/adaptive-computing-20261025.html) · [Compute Contribution and Technology Use Economy](exchange/compute-investment-usage-economy-20261025.html) · [NIKI Council Qualification](council/creation-qualification-20261025.html).
+**Official new documents:** [Foundry whitepaper (PDF)](https://www.blackmoretechgroup.com/assets/BTG_Universal_Technology_Foundry_Whitepaper_2026.pdf) · [Knowledge Capital Economy — Foundry Edition (PDF)](https://www.blackmoretechgroup.com/assets/BTG_Knowledge_Capital_Economy_Foundry_Edition_2026.pdf) · [Technical architecture (PDF)](https://www.blackmoretechgroup.com/assets/BTG_Universal_Foundry_Architecture_Guide_2026.pdf) · [Public guide (PDF)](https://www.blackmoretechgroup.com/assets/BTG_Universal_Foundry_Public_Guide_2026.pdf)
 
-The public documentation for the seven proprietary systems (Exchange, Bridge, Circuits, FarmNodes, BTDU, ADAM and NIKI), user/operator manuals, investor/regulator/engineer/general reading paths, and the Boundary Tech Generation workshop curriculum. The separate ENTITY documentation remains public.
+## One system, multiple connected functions
 
-**Historical 23 October Council records (18:26 UTC):** [AI Council qualification](council/qualification-20261023.html) and [FarmNode sector evaluator baselines](farmnodes/sector-evaluation-20261023.html). The council's combined local testing reports 114/114 across nine partly overlapping suites. The 25 historical cases are data-source validation cases, not new independent inventions. Live hosted cross-model research, three physical FarmNode qualifications and owner-signed production admission remain unproven. Production HOLD.
+| Technology | Responsibility inside the completed Foundry |
+|---|---|
+| **BTG Studio** | Universal Constructor: import, decompose, repair, visually assemble and package technology |
+| **NIKI Council** | 25 independent model seats for engineering proposals, creation, criticism and evaluation |
+| **DataChips / Circuits / Genomes** | Reusable typed capabilities and reproducible assemblies |
+| **ADAM / BTDU** | Canonical knowledge, source preservation, governed execution and replay |
+| **FarmNodes** | Adaptive actual computing across authorized, measured physical hosts |
+| **ENTITY** | Shared identity, rights, permissions, revocation and provenance |
+| **BTG Bridge** | Opt-in resource and data connections controlled by their owners |
+| **Bit Trade Global** | Data/software assets, rights-defined instruments, technology-use transactions and appropriate commercial markets |
+| **Field applications** | HuntAR, SearchAR, HikeAR and future applications sharing the same core services |
+| **Boundary Tech Generation** | Independently governed free youth education using BTG-donated educational software |
 
+### Bit Trade Global is retained
 
-## October 24 — five-product design and verified local evidence
+The completed Foundry **does not remove Bit Trade Global's data-as-asset model**. An asset may carry documented rights, utility and provenance. A computing contribution is a record of verified completed work under permission, and a technology-use transaction is a legally authorized use. Data-use licenses, transferable IP/revenue rights and separately issued financial investment securities remain distinct.
 
-The five user-facing core systems are **BTG Studio, FarmNode Host, BTG Bridge, ENTITY and Bit Trade Global**, supported by NIKI/Council, ADAM, BTDU and DataChip/Circuit technology. Read the [five-system evidence record](evidence/five-systems-engineering-20261024.html), [Studio guide](studio/studio-guide.html), [Studio operator manual](studio/studio-operator-manual.html), [unified-account/ENTITY guide](identity/unified-account-guide.html) and [instrument-controlled computing guide](exchange/instrument-controlled-compute-20261024.html).
+### Source and authority
 
-Verified local 24 October results include overlapping 92/92 and 97/97 Windows FarmNode regressions, the latest full Exchange 239/239 pass, a broader Bridge 169-test run with one unresolved original encrypted-peer import error, and a separately rerun instrumented Studio rights-integration 8/8 pass after repairs. The final Grand Forks Council reached one real creator response and zero independent reviewers, well short of the target eight creators plus nine reviewers. No system-wide production certification is claimed.
+BTG has one original ENTITY authority and one canonical ADAM/BTDU lifecycle. Model-generated engineering proposals do not automatically become approved inventions. Historical AION, ARCI, ForgeNet and other libraries join by tested adapters when they improve the supported system.
 
-Start at [library/index.html](library/index.html) or read the council [System Guide](council/index.html), [Operator Manual](council/operator-manual.html) and [evidence summary](council/evidence-summary.json).
+## Public guide directory
 
-No private implementation, proprietary algorithm, model key, developer manual or live exchange functionality is released by these publications. No securities offering or approval is made.
+- [All system guides](library/index.html)
+- [Companion user and operator manuals](library/user-manuals.html)
+- [BTG Studio](studio/studio-guide.html)
+- [NIKI Council](council/index.html)
+- [DataChips and Circuits](circuits/circuits-guide.html)
+- [FarmNodes](farmnodes/farmnodes-guide.html)
+- [ENTITY account architecture](identity/unified-account-guide.html)
+- [Bridge](bridge/bridge-guide.html)
+- [Bit Trade Global](exchange/exchange-guide.html)
+- [ADAM](adam/adam-guide.html)
+- [BTDU](btdu/btdu-guide.html)
+- [Original dated engineering evidence](evidence/index.html)
+
+## Publication interpretation
+
+This edition explains the **intended completed platform**, including the capabilities of its user-facing products. Dated evidence pages preserve earlier system test results and are not assertions that every completed-platform function has already been deployed. No financial instrument is offered solely by publishing a technical description.
 
 © 2026 Blackmore Technology Group Limited. All rights reserved.
