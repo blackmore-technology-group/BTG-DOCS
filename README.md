@@ -1,5 +1,15 @@
 # Blackmore Technology Group — Universal Technology Foundry
 
+## Engineering architecture and evidence
+
+The original ENTITY authority, canonical ADAM/BTDU payload, typed DataChip contracts, real FarmNode execution receipts, Bridge owner consent and Bit Trade Global's asset/use records are distinct services within **one** architecture. The following references specify their technical boundaries and the tests necessary for credible engineering claims:
+
+- [Platform architecture with defined contracts](https://www.blackmoretechgroup.com/platform-architecture.html)
+- [Engineering baseline and independent acceptance](https://www.blackmoretechgroup.com/engineering-proof.html)
+- [Source-level Foundry contracts](foundry/architecture-contracts-20261026.md)
+- [Source-level evaluation protocol](foundry/engineering-evidence-20261026.md)
+
+
 **Official public documentation | Completed-system architecture edition | 26 October 2026**
 
 BTG's complete technology system is the **Universal Technology Foundry**: one platform to import, diagnose, create, repair, verify, execute and commercialize technology. It combines original systems under a shared architecture rather than presenting them as disconnected products.
