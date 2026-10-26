@@ -2,6 +2,10 @@
 
 **Engineering snapshot: October 26, 2026.** Historical results only; this does not override newer separately verified model/host build evidence.
 
+## Current local Foundry test suite
+
+On October 26, the consolidated E-drive workspace ran the current `python -m unittest discover -s tests -p 'test_*.py' -q` suite: **121 tests in 16.084 seconds, `OK`**. This is a local multi-module engineering test pass. It does not establish full real native repair, independent physical FarmNode federation, Council model provenance, or production financial transactions.
+
 ## Measured work to date
 
 | Test or observation | What passed/was inspected | What is not established |
